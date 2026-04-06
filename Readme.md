@@ -21,6 +21,7 @@ This project analyzes retail sales data to uncover key business insights related
 * **Python (Pandas, NumPy)** → Data cleaning & analysis
 * **Power BI** → Dashboard & visualization
 * **Jupyter Notebook** → Exploratory Data Analysis
+* **Git & GitHub** -> Version control and project management
 
 ---
 
